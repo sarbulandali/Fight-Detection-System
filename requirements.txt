@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+tensorflow
+numpy
+streamlit-webrtc
+av
+matplotlib
+yt-dlp
