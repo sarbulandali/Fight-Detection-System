@@ -1,5 +1,7 @@
 # 🥊 Fight Detection System
 
+![Fight Detection Demo](screenshots/result.png)
+
 A Deep Learning-based Fight Detection System that identifies violent activities from video streams using Computer Vision techniques.
 
 ## Features
@@ -19,6 +21,12 @@ A Deep Learning-based Fight Detection System that identifies violent activities 
 * MobileNetV2
 * LSTM
 
+## Detection Results
+
+![Detection Result](screenshots/detection.png)
+
+The system analyzes video frames in real-time and predicts fight/non-fight activities with confidence scores and event statistics.
+
 ## Dataset
 
 * RWF-2000 Dataset
@@ -33,6 +41,10 @@ streamlit run app.py
 ## Project Goal
 
 To automate violence detection in surveillance footage and support real-time monitoring systems.
+
+## Application Interface
+
+![Application Interface](screenshots/home.PNG)
 
 ## Future Improvements
 
